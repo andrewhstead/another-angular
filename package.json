@@ -1,0 +1,19 @@
+{
+  "name": "another-angular",
+  "version": "1.0.0",
+  "description": "Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewhstead/another-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewhstead/another-angular/issues"
+  },
+  "homepage": "https://github.com/andrewhstead/another-angular#readme"
+}
