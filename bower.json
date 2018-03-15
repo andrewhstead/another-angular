@@ -1,13 +1,12 @@
 {
   "name": "another-angular",
-  "description": "Angular",
+  "description": "This is a Todo app. It helps users to keep track of any things that they have todo.",
   "main": "index.js",
   "authors": [
     "Andrew Stead <andrew@andrewstead.co.uk>"
   ],
   "license": "ISC",
   "homepage": "https://github.com/andrewhstead/another-angular",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
@@ -17,7 +16,9 @@
   ],
   "dependencies": {
     "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
     "angular": "^1.6.9",
-    "angular-route": "^1.6.9"
+    "angular-route": "^1.6.9",
+    "a0-angular-storage": "^0.0.15"
   }
 }
